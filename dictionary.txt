@@ -1,4 +1,4 @@
-﻿ability|способность
+ability|способность
 able|знающий
 about|кругом
 about|о
