@@ -1,0 +1,2016 @@
+﻿ability|способность
+able|знающий
+about|кругом
+about|о
+above|наверху
+abroad|за границей
+absolutely|совершенно
+accept|принимать
+acceptable|приемлемый; допустимый
+accident|несчастный случай
+accidental|случайный
+accidentally|случайно
+accommodation|помещение
+according to|в соответствии с
+account|счет
+achieve|добиваться
+achievement|достижение
+across|поперек
+act|действовать
+action|действие
+active|активный
+activity|деятельность
+actual|фактический
+actually|фактически
+add|прибавлять
+address|адрес
+address|адресовать
+adjective|имя прилагательное
+admire|любоваться
+admit|допускать
+advanced|передовой
+advantage|преимущество
+advice|совет
+advise|советовать
+affect|(воз)действовать
+afford|быть в состоянии
+afraid|испуганный
+after|за
+after|после
+afternoon|время после полудня
+afterwards|впоследствии
+again|еще
+against|прямо напротив
+age|возраст
+ago|тому назад
+agree|соглашаться
+agreement|согласие
+ahead|вперед; впереди
+aim|намерение
+aim|домогаться
+air|воздух
+alive|живой
+all|весь
+allow|позволять
+almost|почти; едва не
+alone|единственный
+along|вдоль
+along|в том же направлении 
+already|уже
+also|тоже
+although|хотя
+always|всегда
+among|между
+amount|величина
+and|и
+angry|рассерженный
+announce|объявлять
+another|другой
+answer|ответ
+answer|отвечать
+anxious|озабоченный
+any|всякий
+any|нисколько
+anybody|кто-нибудь
+anyone|кто-нибудь
+anything|что-нибудь
+anyway|так или иначе
+anywhere|где-нибудь
+apart|в стороне
+apologize|извиняться
+apparently|очевидно
+appeal|призыв
+appeal|обращаться
+appear|показываться
+appearance|внешность
+apply|обращаться(с просьбой)
+approval|одобрение
+approve|одобрить
+area|площадь
+argue|спорить
+argument|довод
+arm|рука
+around|всюду
+arrange|приводить в порядок
+arrangement|размещение
+arrival|прибытие
+arrive|прибывать
+art|искусство
+artificial|искусственный
+as|в качестве
+ashamed|пристыженный
+ask|спрашивать
+at|в
+attach|прикреплять
+attempt|попытка
+attempt|пытаться
+attention|внимание
+attitude|позиция
+attract|привлекать
+attractive|заманчивый
+authority|власть
+autumn|осень
+available|доступный
+average|среднее
+avoid|избегать
+awake|не спящий
+aware|знающий
+away|прочь
+back|спина
+back|назад
+back|поддерживать
+backwards|назад
+bad|плохой
+badly|плохо
+bag|сумка
+balance|весы
+ball|шар
+band|оркестр
+bang|удар
+bang|ударять
+bank|банк
+bar|бар
+base|база
+base|базировать
+basic|составляющий основу
+basically|в своей основе; по существу
+basis|базис
+bath|ванна
+battery|батарея
+be|быть
+bear|терпеть
+beat|бить
+beautiful|красивый
+because|потому что
+become|становиться
+before|перед
+before|впереди
+before|прежде чем
+begin|начинать (ся)
+beginning|начало
+behave|вести себя
+behaviour|поведение
+behind|сзади
+behind|задний
+belief|вера
+believe|верить
+belong|принадлежать
+below|ниже
+bend|сгибать (ся)
+beneath|под
+benefit|выгода
+beside|рядом с
+best|лучший
+best|лучше всего
+bet|пари
+bet|держать пари
+better|лучший
+better|лучше
+between|между
+beyond|за
+big|большой
+bill|счет
+bin|ящик
+birth|рождение
+birthday|день рождения
+bit|кусочек
+bite|укус/кусаться
+black|черный
+black|черный цвет
+blame|упрек
+blame|осуждать
+blind|слепой
+block|блок
+block|заграждать
+blow|веять
+blue|голубой
+board|доска
+boat|лодка
+body|тело
+boil|варить
+book|книга
+book|вносить в книгу
+border|граница
+bored|скучающий
+boring|скучный
+born|родившийся
+borrow|одалживать
+both|оба
+bother|беспокоить(ся)
+bottom|дно
+bottom|нижний
+bound|связанный
+brain|мозг
+branch|ветвь
+brave|смелый
+bread|хлеб
+break|перерыв
+break|ломать
+break down|разрушать
+break in|вламываться
+break into|вламываться
+break out|выламывать
+break through|прорваться
+break up|крошиться на мелкие части
+breakfast|завтрак
+breath|дыхание
+breathe|дышать
+bridge|мост
+brief|короткий
+bright|яркий
+bring|приносить
+bring back|приносить обратно
+bring down|свалить
+bring forward|выдвигать
+bring up|приводить
+broad|широкий
+broken|разбитый
+brother|брат
+brown|коричневый
+brush|щетка
+brush|чистить щеткой
+build|строить
+building|здание
+bunch|связка
+burn|гореть
+burst|лопаться
+bury|хоронить
+bus|автобус
+bush|куст
+business|дело
+busy|занятой
+but|а/но
+butter|масло
+buy|покупать
+by|у
+by|близко
+bye|до свидания
+call|тефонный звонок
+call|кричать
+call at|останавливаться
+call back|перезванивать
+call off|отменять
+call out|выкрикивать
+call up|вызывать
+calm|спокойный
+calmly|спокойно
+can|мочь
+cap|кепка
+capital|столица
+car|автомобиль
+card|карточка
+care|забота
+care|заботиться
+careful|осторожный
+careless|беззаботный
+carry|носить
+case|случай
+catch|ловить
+cause|причина
+cause|послужить причиной/поводом для ч-л.
+centimetre|сантиметр
+central|центральный
+centre|центр
+century|столетие
+certain|определенный
+certainly|конечно
+challenge|проблема
+chance|возможность
+change|перемена
+change|менять
+character|характер
+characteristic|характерная черта
+charge|плата
+charge|назначать
+chase|гнаться
+chat|непринужденно болтать
+cheap|дешевый
+cheat|обманывать
+check|контроль
+check|проверять
+cheek|щека
+cheque|чек
+chief|главный
+child|ребенок
+children|дети
+chin|подбородок
+choice|выбор
+choose|выбирать 
+church|церковь
+cinema|кинотеатр
+circle|круг
+circumstance|обстоятельство
+city|город
+claim|требование
+claim|требовать
+class|класс
+classroom|классная комната
+clean|чистый
+clean|чистить
+clear|чистый
+clear|очищать
+clearly|ясно
+clever|умный
+climb|карапкаться
+close|закрывать
+close|близкий
+closed|закрытый
+closely|близко
+clothes|одежда
+club|клуб
+clue|ключ (к разгадке)
+coat|пальто
+coffee|кофе
+cold|холодный
+collect|собирать
+collection|коллекция
+colour|цвет
+combination|сочетание
+combine|соединяться
+come|приходить
+come back|возвращаться
+come down|спускаться
+come from|приходить откуда-л.
+come in|входить
+come off|отрываться
+come out|выходить
+come over|приезжать
+come round|заходить ненадолго
+come up|подниматься
+comfort|комфорт
+comfortable|комфортный
+command|команда
+comment|комментарий
+comment|комментировать
+commit|совершать
+common|общее
+common|общий
+communicate|сообщать
+communication|коммуникация
+community|сообщество
+company|компания
+compare|сравнивать
+compete|состязаться
+complain|жаловаться
+complaint|жалоба
+complete|полный
+complete|завершать
+completely|вполне
+complicated|запутанный
+computer|компьютер
+concentrate|сосредоточивать
+concentration|концентрация
+concern|отношение
+concerned|заинтересованный
+concerning|касательно
+conclusion|умозаключение
+condition|условие 
+conduct|сопровождать
+confidence|вера
+confident|уверенный 
+confuse|смешивать
+confused|смущенный; озадаченный
+confusing|сбивающий с толку
+congratulate|поздравлять
+congratulations|поздравление
+connect|соединять
+connected|связанный с кем-л.
+connection|связь
+consider|рассматривать
+considering|учитывая
+consist|состоять
+constantly|непрерывно
+consult|советоваться
+contact|контакт
+contact|связываться
+contain|содержать
+container|контейнер
+content|содержимое
+content|довольный
+contents|содержимое
+continue|продолжать
+contrast|различие
+contrast|сопоставлять
+contribute|способствовать
+control|надзор
+control|управлять
+convenient|удобный
+conversation|разговор
+convince|убеждать
+convinced|убежденный
+convincing|убедительный
+cook|готовить 
+cool|прохладный
+cope|справиться
+copy|копия
+copy|копировать
+corner|угол
+correct|правильный
+correct|исправлять
+correction|исправление
+cost|цена
+cost|стоить
+cough|кашлять
+could|мог
+count|считать
+country|страна
+couple|пара
+course|курс
+cover|крышка
+cover|накрывать
+crash|грохот
+crash|рушиться
+crazy|ненормальный
+create|создавать
+creature|создание
+crime|преступление
+crisis|кризис
+criticism|критика
+criticize|критиковать
+cross|крест
+cross|перекрещивать
+crowd|толпа
+crowded|переполненный
+cruel|жестокий
+cruelty|жестокость
+cry|плач
+cry|плакать
+culture|культура
+curious|любопытный
+custom|обычай
+cut|резать
+cut|разрез
+damage|вред
+damage|повреждать
+damp|влажный
+dance|танец
+dance|танцевать
+danger|опасность
+dangerous|опасный
+dare|осмеливаться
+dark|темный
+date|дата
+day|день
+dead|мертвый
+deaf|глухой
+deal|сделка
+dear|дорогой
+debt|долг
+decide|решать
+decision|решение
+declaration|декларация
+declare|заявлять
+deep|глубокий
+deep|глубоко
+defeat|одержать победу
+defend|защищать
+definite|ясный
+degree|степень
+deliberate|намеренный
+deliberately|сознательно
+delicate|нежный
+delight|удовлетворение
+deliver|доставлять
+demand|требовать
+demonstrate|показывать
+depend|зависеть
+describe|описывать
+description|описание
+deserve|заслуживать
+design|проект
+design|разрабатывать
+desperate|безнадежный; бесперспективный
+destroy|разрушать
+detail|деталь
+determined|решительный
+develop|развивать
+development|развитие
+die|умереть
+difference|разница
+different|различный
+difficult|трудный
+difficulty|трудность
+dig|копать
+dinner|обед
+direct|прямой
+direct|руководить
+direction|направление
+disagree|не совпадать
+disappear|исчезать
+disappointed|разочарованный
+disapprove|осуждать
+discover|обнаруживать
+discovery|открытие
+discuss|обсуждать
+discussion|дискуссия
+disgusting|противный
+dish|блюдо
+display|показ
+distance|расстояние
+distant|дальний
+disturb|беспокоить
+disturbing|беспокоящий
+divide|отделять
+division|деление
+do|делать
+doctor|врач
+door|дверь
+doubt|сомнение
+doubt|сомневаться
+down|вниз
+downstairs|расположенный в нижнем этаже
+draw|рисовать
+drawing|рисунок
+dream|сон
+dream|сниться
+dress|платье
+dress|одевать
+drink|напиток
+drink|пить
+drive|езда
+drive|везти
+drop|капля
+drop|ронять
+dry|сухой
+dry|сушить
+dull|скучный
+during|в течение
+duty|обязанность	
+each|каждый
+eager|страстно желающий
+ear|ухо
+early|ранний
+earn|зарабатывать
+earth|Земля
+easy|легкий
+eat|есть
+edge|кромка
+education|образование
+effect|результат
+effort|усилие
+either|любой (из двух)
+either|один из двух
+else|еще
+embarrassed|смущенный
+embarrassing|стеснительный
+emergency|непредвиденный случай
+emotion|чувство
+emphasis|важность
+emphasize|подчеркивать
+empty|пустой
+encourage|поощрять
+end|конец
+end|кончать
+enemy|враг
+energy|энергия
+enjoy|получать удовольствие
+enjoyable|приятный
+enough|достаточно
+enter|входить
+entertainment|развлечение
+enthusiastic|восторженный
+entrance|вход
+entry|вход
+environment|окружение
+equal|равный
+equal|равняться
+equipment|оборудование
+error|заблуждение
+escape|убегать
+especially|особенно
+estimate|оценка
+estimate|оценивать
+even|даже
+even|ровный
+evening|вечер
+event|событие
+ever|всегда
+every|каждый
+everybody|каждый
+everyone|каждый
+everything|всё 
+everywhere|везде
+evidence|доказательство
+exact|точный
+exactly|точно
+exaggerate|преувеличивать
+exam|экзамен
+example|пример
+excellent|отличный
+except|исключая
+exchange|обмен
+exchange|обменивать
+excited|взволнованный
+exciting|возбуждающий
+excuse|извинение
+excuse|извиняться
+exercise|упражнение
+exhibition|выставка
+exist|существовать
+exit|выход
+expect|ожидать
+expensive|дорогой
+experience|опыт
+experiment|эксперимент
+explain|объяснять
+explanation|пояснение
+exploration|исследование
+expression|выражение
+extra|добавочный
+extraordinary|необычный
+extremely|чрезвычайно
+eye|глаз
+face|лицо
+face|быть обращенным к
+fact|обстоятельство
+factory|завод
+fail|потерпеть неудачу
+failure|неспособность
+fair|честный
+fairly|должным образом
+fall|падение
+fall|падать
+false|неверный
+familiar|хорошо знакомый
+family|семья
+famous|знаменитый
+far|далеко
+far|дальний
+fashion|мода
+fast|быстрый
+fast|быстро
+fasten|прикреплять
+fat|толстый
+father|отец
+fault|недостаток
+favour|одолжение
+favourite|любимый
+fear|боязнь
+fear|бояться 
+feature|особенность
+feed|кормить
+feel|чувствовать
+feeling|ощущение
+female|самка
+female|женского пола
+fence|забор
+fetch|принести
+few|мало
+field|поле
+fierce|свирепый
+fight|драться
+figure|цифра
+file|папка/файл
+fill|наполнять 
+film|фильм
+final|завершающий
+finally|наконец
+find|находить
+fine|превосходный
+finger|палец
+finish|заканчивать
+fire|огонь
+fire|стрелять
+firm|твердый
+first|первый
+fit|подходить
+fit|подходящий
+fix|ремонтировать
+flat|плоский
+flat|ровно
+flavour|вкус
+flight|полет
+float|плавать
+flood|заливать
+floor|пол
+flow|течение
+flow|течь
+fly|летать
+fold|загибать
+follow|следовать
+fond|нежный
+food|пища
+foot|ступня
+for|для
+force|сила
+force|заставлять
+foreign|иностранный; заграничный
+forever|навсегда
+forget|забывать
+forgive|прощать 
+fork|вилка
+form|форма
+form|образовывать
+formal|официальный
+fortunate|счастливый
+fortunately|к счастью
+forward|вперед
+frame|рама
+free|свободный
+free|освобождать
+free|бесплатно
+freedom|свобода
+freeze|замораживать
+frequent|частый
+fresh|свежий
+friend|друг
+friendly|дружественный
+frighten|пугать
+frightened|испуганный
+from|от
+front|передняя сторона чего-л
+full|полный
+fun|шутка
+funny|забавный
+furniture|мебель
+further|дальше
+future|будущее
+future|будущий	
+game|игра
+gap|щель
+gas|газ
+gate|ворота
+gather|собирать
+general|главный
+generally|обычно
+generous|щедрый
+gentle|ласковый
+genuine|истинный
+get|получить
+get away|уходить
+get back|вернуть
+get off|сойти
+get on|садиться
+get out|выходить
+get up|вставать
+gift|подарок
+give|давать
+give away|отдавать
+give back|возвращать
+give out|раздавать
+give up|оставить
+glad|довольный
+glass|стекло
+go|идти
+go  away|уходить
+go back|возвращаться
+go down|опускаться
+go off|выстреливать
+go on|продолжать
+go out|выйти
+go up|подниматься
+good|хороший
+goodbye|до свидания!
+government|правительство
+grade|степень
+gradually|постепенно
+grand|большой
+grateful|благодарный
+great|большой
+greeting|приветствие
+ground|земля
+group|группа
+grow|расти
+guard|охрана
+guess|предположение
+guess|догадаться
+guide|вести
+guilty|виновный
+habit|обычай
+hair|волосы
+half|половина
+hand|рука (кисть)
+handle|управлять
+hang|вешать
+happen|случаться
+happy|счастливый
+hard|жесткий
+hard|активно
+hardly|вряд ли
+harm|вред; зло
+hate|ненавидеть
+he|он
+have|иметь
+head|голова
+health|здоровье
+healthy|здоровый
+hear|слышать
+heart|сердце
+heat|жара
+heavy|тяжелый
+height|высота
+hello|привет!
+help|помогать
+her|ее
+here|здесь
+hers|ее
+herself|сама
+hide|прятать
+high|высокий
+high|высоко
+him|ему
+himself|сам
+his|его
+history|история
+hit|хит
+hit|ударять
+hold|захвт
+hold|дерать
+hold on|подождать
+hold out|протягивать
+hold up|останавливать
+hole|дыра
+holiday|праздник
+hollow|пустой
+home|дом
+home|дома
+honest|честный
+hope|надежда
+hope|надеяться
+hospital|больница
+hot|горячий
+hour|час
+house|дом
+how|как
+however|однако
+human|людской
+hungry|голодный
+hurry|суета
+hurry|торопить (ся)
+hurt|ранить
+hurt|раненый
+I|я
+idea|идея
+identify|опознавать
+if|если
+ignore|игнорировать
+ill|больной
+illness|болезнь
+image|образ
+imagination|воображение; фантазия
+imagine|воображать
+immediate|немедленный
+immediately|немедленно
+impatient|нетерпеливый
+importance|важность
+important|важный
+impossible|невозможный
+impressed|пораженный
+impression|впечатление
+impressive|впечатляющий
+improve|улучшать
+improvement|улучшение
+in|в
+inside|внутри
+include|заключать
+increase|возрастание
+increase|возрастать
+indeed|в самом деле
+independent|независимый
+influence|влияние
+influence|влиять
+inform|сообщать
+information|информация
+injury|вред
+innocent|невинный
+inquire|осведомляться
+inside|внутренний
+insist|настаивать
+instant|мгновенный
+instead|вместо
+instruction|инструкция
+instrument|инструмент
+intelligent|сообразительный
+intend|планировать
+interest|интерес
+interested|заинтересованный
+interesting|интересный
+interfere|вмешиваться
+interrupt|прерывать
+interruption|перерыв
+interview|беседа
+interview|интервьюировать
+into|в
+introduce|знакомить
+introduction|введение
+invitation|приглашение
+invite|приглашать
+involve|вовлекать
+issue|вопрос (проблема)
+it|это
+its|его
+Itself|себя
+job|работа
+join|соединять
+joke|шутка
+joke|шутить
+journey|путешествие
+judge|судья
+judge|судить
+juice|сок
+jump|прыгать
+just|только что
+justice|справедливость
+keen|острый
+keep|держать
+keep away|держать (ся) в отдалении
+keep from|удерживать (ся)
+keep off|не подпускать
+keep out|не допускать
+keep up|поддерживать
+key|ключ
+kick|ударять ногой
+kill|убивать
+kind|сорт
+kind|добрый
+knock|ударять
+know|знать
+knowledge|знание
+label|ярлык
+land|земля
+land|приземляться
+language|язык
+large|большой
+last|последний
+last|длиться
+late|поздний
+later|более поздний
+later|позже
+laugh|смех
+laugh|смеяться
+law|закон
+lay|класть
+lead|преимущество
+lead|вести
+lean|опираться
+learn|учиться
+least|наименьший
+leave|покидать
+left|левый
+left|налево
+left|левая сторона
+leg|нога
+legal|легальный
+lend|одалживать
+length|длина
+less|меньше
+lesson|урок
+let|позволять
+letter|письмо
+level|уровень
+level|плоский
+lie|лежать
+life|жизнь
+lift|поднимать (ся)
+light|свет
+light|светлый
+light|загораться
+like|любить
+like|подобный
+likely|вероятный
+limit|граница
+limit|ограничивать
+line|линия
+list|список
+listen|слушать
+listen for|прислушиваться
+little|маленький
+little|мало
+live|жить
+live|живой
+load|груз
+load|грузить
+loan|заем
+lock|замок
+lock|запирать ключом
+lonely|одинокий
+long|длинный
+long|долго
+look|смотреть
+look after|присматривать
+look around|осматривать
+look back|оглядываться
+look up|искать
+loose|свободный
+lose|терять
+loss|потеря
+lost|разрушенный
+lot|много
+loud|громкий
+love|любовь
+love|любить
+low|низкий
+lower|нижний
+luck|везение
+lucky|счастливый
+lunch|обед
+machine|машина
+mad|сумасшедший
+mail|почта
+main|главный
+mainly|главным образом
+maintain|поддерживать
+major|более важный
+majority|большинство
+make|делать
+make into|переделывать
+make up|выдумывать
+male|самец
+male|мужской
+man|человек
+manage|руководить
+manner|манера
+many|много
+march|маршировать
+mark|знак
+mark|отмечать
+market|рынок
+married|женатый
+marry|жениться  или выходить замуж
+mass|масса
+match|спичка
+match|подходить
+material|материал
+matter|дело
+matter|иметь значение
+maximum|максимальный
+may|мочь
+maybe|может быть
+me|меня
+meal|прием пищи
+mean|неприятный
+mean|иметь в виду
+meaning|значение
+means|средство
+meanwhile|тем временем
+measure|мера
+measure|измерять
+medium|средний
+meet|встречать
+meeting|встреча
+memory|память
+mend|чинить
+mention|упоминать
+mess|беспорядок
+mess|производить беспорядок
+message|сообщение
+method|метод
+middle|середина
+middle|средний
+might|мочь (прош. вр. от may) 
+mind|возражать
+mind|ум
+mine|мой
+mine|шахта
+minimum|минимум
+minimum|минимальный  
+minor|незначительный
+minority|меньшинство
+minute|минута
+miss|скучать
+miss|промах
+mistake|ошибка
+mistake|ошибаться
+mix|смешивать
+mixture|смешивание
+model|модель
+modern|современный
+moment|момент
+money|деньги
+month|месяц
+mood|настроение
+moon|луна
+moral|моральный
+more|больше
+morning|утро
+most|больше всего
+mother|мама
+motion|движение
+mouth|рот
+move|движение
+move|двигать
+movement|движение
+much|много
+murder|убийство
+murder|убивать
+muscle|мускул
+music|музыка
+must|должен
+my|мой
+myself|себя
+mysterious|таинственный
+mystery|тайна
+name|имя
+name|называть
+narrow|узкий
+national|национальный
+natural|естественный
+naturally|естественно
+nature|природа
+near|близко
+near|ближний
+nearly|почти
+neat|аккуратный
+necessary|необходимый
+neck|шея
+need|нуждаться
+needle|игла
+negative|отрицательный
+neither|ни тот ни другой
+neither|также не
+nerve|нерв
+nervous|нервный
+never|никогда 
+new|новый
+news|известие
+next|следующий
+nice|хороший
+night|ночь
+no|не
+no|никакой
+noise|шум
+noisy|шумный
+none|никакой
+nonsense|абсурд
+no one|никто
+nor|и... не
+normal|нормальный
+nose|нос
+not|не
+note|записка
+nothing|ничего
+notice|объявление
+now|сейчас
+now|теперь
+nowhere|нигде
+number|число
+nurse|медицинская сестра
+object|предмет
+object|возражать
+objection|возражение
+obtain|получать
+obvious|очевидный
+occasion|случай
+occasional|случайный
+occur|происходить
+ocean|океан
+odd|странный
+of|от
+off|с
+off|несвежий
+offence|нарушение
+offend|обижать
+offer|предложение
+offer|предлагать
+office|офис
+official|официальный
+official|должностное лицо
+often|часто
+oil|нефть
+OK or|okay	хорошо
+old|старый
+on|на
+on|включенный
+once|один раз
+once|однажды
+one|один
+only|только
+only|единственный
+onto|на
+open|открытый
+open|открывать
+operate|действовать
+operation|операция
+opinion|мнение
+opponent|противник
+opportunity|благоприятная возможность
+opposite|противоположный
+opposite|напротив
+or|или
+order|порядок
+order|заказывать
+ordinary|обычный
+organization|организация
+organize|организовывать
+original|начальный
+other|другой
+otherwise|иначе
+ought|выражает долженствование
+our|наш
+ours|наш
+ourselves|сами
+out|вне
+outside|снаружи
+over|над
+over|свыше
+owe|быть должным
+own|свой
+pain|боль
+pair|пара
+paper|бумага
+part|доля
+part|расставаться
+partner|партнер
+party|вечеринка
+pass|проходить
+passage|проход
+passenger|пассажир
+past|прошлое
+past|прошлый
+past|мимо
+path|тропинка
+patience|терпение
+patient|терпеливый
+pattern|модель
+pause|пауза
+pause|останавливаться
+pay|плата
+pay|платить
+payment|платеж
+peace|мир
+peaceful|мирный
+pen|ручка
+pencil|карандаш
+people|люди
+perfect|совершенный
+perform|выполнять
+performance|выступление
+perhaps|может быть
+period|период
+permission|позволение
+person|человек
+personal|личный
+persuade|убеждать
+petrol|бензин
+phone|телефон
+phone|звонить по телефону
+physical|физический
+pick|выбирать
+picture|картина
+piece|кусок
+pile|куча
+pin|кнопка
+pinch|щипать
+pipe|труба
+pity|жалость
+place|пространство
+plain|чистый
+plan|план
+plan|планировать
+plant|растение
+plastic|пластик
+plate|тарелка
+platform|платформа
+play|пьеса
+play|играть
+pleasant|приятный
+please|пожалуйста!
+please|радовать
+pleased|довольный
+pleasure|удовольствие
+plenty|множество
+plenty|вполне
+pocket|каман
+point|точка
+point|указывать
+poison|яд
+police|полиция
+polite|вежливый
+politics|политика
+pollution|загрязнение
+pool|бассейн
+poor|бедный
+popular|популярный
+port|порт
+position|положение
+positive|уверенный
+possession|владение
+possibility|вероятность
+possible|вероятный
+possibly|возможно
+post|почта
+post|посылать по почте
+pot|горшок
+pour|лить
+power|сила
+powerful|сильный
+practical|практический
+practice|практика
+practise|практиковать
+praise|хвалить
+precise|точный
+prefer|предпочитать
+preparation|подготовка
+prepare|готовить
+present|подарок
+present|преподносить
+present|присутствующий
+press|пресса
+press|нажимать
+pressure|давление
+pretend|притворяться
+pretty|хорошенький
+pretty|достаточно
+prevent|предотвращать
+previous|предыдущий
+price|цена
+pride|гордость
+principle|принцип
+print|печатать
+priority|преимущество
+private|частный
+prize|приз
+probably|вероятно
+problem|проблема
+process|процесс
+produce|производить
+production|изготовление
+professional|профессиональный
+profit|прибыль
+programme|программа
+progress|прогресс
+project|проект
+promise|обещание
+promise|обещать
+pronounce|произносить
+pronunciation|произношение
+proof|подтверждение
+proper|присущий
+properly|должным образом
+protect|защищать
+protection|защита
+protest|протест
+protest|протестовать
+proud|гордый
+prove|доказывать
+provide|снабжать
+public|общественный
+public|публика
+pull|тянуть
+pump|качать
+punish|наказывать
+punishment|кара
+pupil|ученик
+pure|чистый
+purpose|цель
+push|толкать
+put|класть
+quality|качество
+quantity|количество
+quarter|четверть
+question|вопрос
+question|расспрашивать
+quick|быстрый
+quickly|быстро
+quiet|тихий
+quite|совершенно
+race|гонка
+radio|радио
+rain|дождь
+rain|идти
+raise|поднимать
+range|ряд
+rank|звание
+rare|редкий
+rarely|нечасто
+rate|показатель
+rather|достаточно
+raw|сырой
+reach|добираться до
+react|реагировать
+reaction|реакция
+read|читать
+ready|готовый
+real|реальный
+realize|понимать
+really|действительно
+reason|причина
+reasonable|разумный
+receive|получать
+recent|недавний
+recently|недавно
+recognize|признавать
+recommend|рекомендовать
+record|запись
+record|записывать
+recover|выздоравливать
+recovery|выздоровление
+reduce|понижать
+reduction|сокращение
+refer|упоминать
+refuse|отказать
+regard|внимание
+region|область
+regional|бластной
+regret|сожалеть
+regular|регулярный
+regularly|регулярно
+reject|отклонять
+related|связанный
+relation|связь
+relationship|родство
+relative|родственник; родственница
+relax|расслабляться
+release|освобождать
+reliable|надежный
+relief|облегчение
+rely|полагаться
+remain|оставаться
+remark|замечание
+remember|помнить
+remove|перемещать
+rent|брать в аренду
+repair|ремонтировать
+repeat|повторять
+replace|заменять
+reply|отвечать
+reply|ответ
+report|доклад
+report|сообщать
+represent|представлять
+rescue|спасать
+reserve|резервировать
+respect|уважение
+respect|уважать
+responsibility|ответственность 
+responsible|ответственный
+rest|остаток
+rest|отдыхать
+result|результат
+return|возвращаться
+rich|богатый
+rid|освобождать
+ride|ехать
+right|право
+right|правый
+right|правильно
+ring|кольцо
+ring|звонить
+rise|подниматься
+risk|риск
+risk|рисковать 
+road|дорога
+rob|грабить
+roll|катить (ся)
+roof|крыша
+room|комната
+rough|грубый
+round|круглый
+round|вокруг
+row|ряд
+rub|тереть 
+rubbish|мусор
+rule|правило
+run|бег
+run|бежать
+run away|убежать
+run into|наталкиваться
+run out|кончаться
+run over|переехать
+rush|спешка
+rush|мчаться
+sad|грустный
+safe|безопасный
+safety|безопасность
+sail|плавать
+sale|продажа
+same|тот (же) самый
+satisfactory|удовлетворительный
+satisfied|удовлетворенный
+save|спасать
+say|сказать
+scale|вес
+scare|пугать
+scared|испуганный
+scene|сцена
+schedule|список
+scheme|проект
+school|школа
+science|наука
+score|счет
+score|выигрывать
+scrap|клочок
+scrape|скоблить
+scream|кричать
+scream|крик
+sea|море
+search|поиск
+search|искать
+season|сезон
+seat|сиденье
+second|второй
+second|секнда
+secret|секрет
+secret|секретный
+section|секция
+see|видеть
+seem|казаться
+sell|продавать
+send|посылать
+sense|чувство
+sensible|благоразумный
+sensitive|чувствительный
+sentence|предложение
+separate|отдельный
+separate|разделять
+serious|серьезный
+seriously|серьезно
+serve|подавать
+service|служба
+set|набор
+set|ставить
+settle|улаживать
+several|несколько
+shade|тень
+shadow|тень
+shake|трясти
+shall|следует
+shallow|мелкий
+shame|стыд
+shape|форма
+share|делить (ся)
+share|доля
+sharp|острый
+she|она
+shelter|приют
+shine|сиять
+shock|удар
+shock|потрясать
+shoot|стрелять
+shop|магазин
+shop|делать покупки
+shopping|посещение магазина
+short|короткий
+should|выражает долженствование
+shoulder|плечо
+shout|крик
+shout|кричать
+show|показывать
+show|шоу
+shrink|уменьшать
+shut|закрывать
+shut|закрытый
+sick|больной
+side|сторона
+side|боковой
+sight|вид
+sign|знак; символ
+sign|подписывать
+silent|молчаливый
+similar|подобный
+simple|простой
+since|с тех пор
+sing|петь
+single|единственный
+sink|тонуть
+sink|раковина
+sister|сестра
+sit|сидеть
+situation|положение
+size|размер
+skill|умение
+skin|кожа
+skirt|юбка
+sky|небеса
+sleep|спать
+sleep|сон
+slice|ломтик
+slice|нарезать ломтиками
+slide|скользить
+slight|легкий
+slightly|незначительно
+slip|поскользнуться
+slow|медленный
+slowly|медленно
+small|маленький
+smart|нарядный
+smell|пахнуть
+smell|запах
+smile|улыбаться
+smile|улыбка
+smoke|дым
+smooth|гладкий
+snow|снег
+snowing|идет снег
+so|итак
+so|так
+soak|впитывать
+soft|мягкий
+software|компьютерные программы
+soil|грунт
+solve|решать
+some|какой-либо
+somebody|кто-нибудь
+somehow|так или иначе
+someone|кто-нибудь
+something|кое-что
+sometimes|иногда
+somewhere|где-то
+song|песня
+soon|скоро
+sore|боль
+sorry|огорченный
+sort|вид
+sort|сортировать
+sound|звук
+sound|звучать
+space|пространство
+spare|запасной
+speak|говорить
+special|особый
+speech|речь
+speed|скорость
+spend|тратить
+spill|проливать
+spin|крутить
+spite|злость
+splash|брызгать
+split|раскалывать
+spoil|портить
+sport|спорт
+spot|место
+spray|брызгать
+spread|распространять
+spring|весна
+spring|отскочить
+square|квадрат
+square|квадратный
+squash|раздавливать
+squeeze|выжимать
+stage|ступень
+stamp|марка
+stamp|топать ногой
+stand|стоять
+standard|стандарт
+star|звезда
+stare|вглядываться
+start|начало
+start|начинать
+state|состояние
+statement|заявление
+stay|оставаться
+steady|устойчивый
+steal|воровать
+steam|пар
+steep|крутой
+steer|направлять
+step|шаг
+stick|приклеивать
+sticky|клейкий
+stiff|жесткий
+still|до сих пор
+still|тихий
+sting|жалить
+stir|размешивать
+stone|камень
+stop|остановка
+stop|останавливать
+store|магазин
+store|запасать
+storm|шторм
+story|рассказ
+straight|прямой
+straight|прямо
+strange|странный
+stranger|незнакомец
+street|улица
+strength|сила
+stretch|протяжение
+strict|строгий
+strike|ударять
+strike|забастовка
+string|веревка
+strong|сильный
+study|изучать
+study|изучение
+stupid|глупый
+style|стиль
+subject|предмет
+substance|вещество
+succeed|удаваться
+success|успех
+successful|удачный
+such|такой
+sudden|внезапный
+suddenly|вдруг
+suffer|страдать
+suggest|предлагать
+suggestion|предложение
+suit|костюм
+suit|подходить
+summer|лето
+supply|поставка
+support|поддерживать
+suppose|допускать
+sure|уверенный
+sure|конечно
+surface|поверхность
+surprise|сюрприз
+surprised|удивленный
+surprising|неожиданный
+survive|пережить
+swallow|глотать
+sweep|мести
+sweet|сладкий
+swim|плавать
+swimming|плавание
+swing|качать
+switch|выключатель
+switch|переключать
+system|система
+table|стол
+take|брать
+take away|убирать
+take back|отдавать
+take off|снимать одежду
+take out|вынимать
+take over|принимать дела от другого
+talk|разговор
+talk|разговаривать
+talk back|спорить
+talk into|уговорить
+talk out|of	отговорить
+tall|высокий
+tap|стучать
+tap|кран
+tape|лента/скотч
+target|цель
+task|задание
+taste|вкус
+taste|пробовать
+tax|налог
+teach|преподавать
+team|команда
+tear|рвать
+telephone|телефон
+television|телевизор
+tell|говорить
+temper|характер
+temperature|температура
+tend|иметь тенденцию
+tense|возбужденный
+term|срок
+terrible|страшный
+test|тест
+test|испытывать
+than|чем
+thank|благодарить
+thanks|спасибо
+thank you|спасибо
+that|тот
+that|так
+the|определенный артикль
+their|их
+theirs|их
+them|им
+themselves|себя
+then|затем,тогда
+there|там
+there|есть
+they|они
+thick|толстый
+thin|тонкий
+thing|вещь
+think|думать
+think of|подумать
+think over|обдумывать
+think through|продумывать
+thirsty|испытывающий жажду
+this|этот
+this|данный
+thorough|тщательный
+though|хотя
+thought|мысль
+threaten|угрожать
+through|через
+through|свободный
+throughout|по всему
+throw|бросать
+thumb|большой палец (руки)
+ticket|билет
+tidy|аккуратный
+tidy|убирать
+tie|связывать
+tight|тесный
+time|время
+tip|кончик
+tip|наклонять
+tired|усталый
+to|приинфинитивная частица
+to|к
+today|сегодня
+together|вместе
+tomorrow|завтра
+tone|тон
+tongue|язык
+tonight|сегодня вечером
+too|слишком
+tool|инструмент
+tooth|зуб
+top|верхушка
+top|верхний
+total|абсолютный
+total|целое
+touch|прикосновение
+touch|прикасаться
+tough|жесткий
+tour|путешествие
+towards|по направлению к
+town|город
+track|тропинка
+trade|торговля
+trade|торговать
+tradition|традиция
+traffic|движение
+tragedy|несчастье
+train|поезд
+train|тренировать
+translate|переводить
+transparent|прозрачный
+transport|перевозка
+trap|капкан
+trap|задерживать
+travel|путешествовать
+tread|наступать
+treat|обращаться
+treat|радость
+treatment|лечение
+trial|судебный процесс
+trick|обман
+trick|обманывать
+trip|путешествие
+trip|спотыкаться
+trouble|беспокойство
+trousers|брюки
+true|верный
+trust|верить
+trust|вера
+truth|правда
+try|пытаться
+tune|мелодия
+turn|очередь
+turn|поворачивать
+turn away|прогонять
+turn back|обернуться
+turn down|убавить
+turn into|превращать во (что-л.)
+turn off|сворачивать
+turn on|включать
+turn out|оказаться
+turn over|переворачивать
+turn up|усиливать
+twist|крутить
+type|тип
+typical|типичный	
+unable|неспособный
+uncertain|неопределенный
+uncomfortable|неудобный
+under|вниз
+under|при
+underneath|вниз
+underneath|вниз
+understand|понимать
+undo|развязывать
+unfair|несправедливый
+unfortunate|неудачливый
+unhappy|несчастливый
+uniform|форма
+union|объединение
+unit|часть
+unite|соединять
+university|университет
+unkind|злой
+unless|если не
+unlikely|маловероятный
+unlucky|несчастливый
+unpleasant|неприятный
+until|до
+unusual|необычный
+up|вверх
+upon|на
+upset|расстроенный
+upstairs|вверх
+upwards|снизу – вверх
+urgent|срочный
+us|нас
+use|употребление
+use|использовать
+used|подержанный
+usual|обыкновенный
+usually|обычно
+valuable|ценный
+value|ценность
+vanish|исчезать
+variety|разновидность
+various|различный
+very|очень
+view|точка зрения
+violence|жестокость
+violent|насильственный
+vision|зрение
+visit|навещать
+visit|посещение
+voice|голос
+vote|голосование
+wait|ждать
+wake|просыпаться
+walk|прогулка 
+walk|гулять
+wall|стена
+wander|бродить
+want|хотеть
+war|война
+warm|теплый
+warn|предупреждать
+warning|предупреждение
+wash|мыть
+wash|мытье
+waste|тратить
+waste|излишняя трата
+watch|наблюдать
+watch|часы
+water|вода
+wave|махать
+wave|волна
+way|дорога
+we|мы
+weak|слабый
+wealth|богатство
+wear|носить (одежду)
+weather|погода
+week|неделя
+weekend|выходные дни
+weigh|весить
+welcome|желанный
+welcome|приветствовать
+well|хорошо
+well|здоровый
+wet|мокрый
+what|что
+whatever|все что
+wheel|колесо
+when|когда
+whenever|всякий раз когда
+where|где
+wherever|где бы ни
+whether|ли
+which|который
+whichever|какой угодно
+while|пока
+whisper|шептать
+whistle|свистеть
+whistle|свисток
+who|кто
+whoever|кто бы ни
+whole|весь
+whom|кого
+why|почему
+wide|широкий
+wide|широко
+wild|дикий
+will|завещание
+will|выражает обещание
+willing|готовый (сделать что-л.)
+win|победить
+wind|ветер
+wind|виться
+window|окно
+wing|крыло
+winter|зима
+wipe|вытирать
+wire|проволока
+wise|мудрый
+wish|желание
+wish|желать
+with|с
+within|внутри
+without|без
+woman|женщина
+wonder|удивляться
+word|слово
+work|работа
+work|работать
+work on|продолжать работать 
+work out|решать
+work up|to	отрабатывать
+world|мир
+worried|озабоченный
+worry|беспокоить
+worse|худший
+worst|наихудший
+worth|стоящий
+worth|цена
+would|выражает желание
+wrap|заворачивать
+write|писать
+wrong|неправильный
+year|год
+yes|да
+yesterday|вчера
+yet|еще
+you|ты
+young|молодой
+your|ваш
+yours|ваш
+yourself|себя
+zero|ноль
