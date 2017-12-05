@@ -1992,7 +1992,7 @@ work|работа
 work|работать
 work on|продолжать работать 
 work out|решать
-work up|to отрабатывать
+work up|отрабатывать
 world|мир
 worried|озабоченный
 worry|беспокоить
