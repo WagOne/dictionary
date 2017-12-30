@@ -52,7 +52,7 @@ air|воздух
 alive|живой
 all|весь
 allow|позволять
-almost|почти; едва не
+almost|почти
 alone|единственный
 along|вдоль
 along|в том же направлении 
@@ -133,7 +133,7 @@ bar|бар
 base|база
 base|базировать
 basic|составляющий основу
-basically|в своей основе; по существу
+basically|в своей основе
 basis|базис
 bath|ванна
 battery|батарея
