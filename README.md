@@ -1,2 +1,2 @@
 # English-Russian dictionary of basic words
-<b>2000 base words ENG|RUS</b>
+<b>2000 basic words ENG|RUS</b>
